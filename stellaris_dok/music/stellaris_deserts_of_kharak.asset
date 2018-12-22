@@ -1,0 +1,595 @@
+music={
+    name = "Deserts of Kharak - 001 - Our Planet is Dying"
+    volume = 0.50
+    file = "01 Our Planet is Dying.ogg"
+}
+music={
+    name = "Deserts of Kharak - 002 - Epsilon Base"
+    volume = 0.50
+    file = "02 Epsilon Base.ogg"
+}
+music={
+    name = "Deserts of Kharak - 003 - Launch of The Kapisi"
+    volume = 0.50
+    file = "03 Launch of The Kapisi.ogg"
+}
+music={
+    name = "Deserts of Kharak - 004 - Mission 1 Personal Log"
+    volume = 0.50
+    file = "04 Mission 1 Personal Log.ogg"
+}
+music={
+    name = "Deserts of Kharak - 005 - Message from Khagaan"
+    volume = 0.50
+    file = "05 Message from Khagaan.ogg"
+}
+music={
+    name = "Deserts of Kharak - 006 - Lander Arrives"
+    volume = 0.50
+    file = "06 Lander Arrives.ogg"
+}
+music={
+    name = "Deserts of Kharak - 007 - Battle at The Boneyard"
+    volume = 0.50
+    file = "07 Battle at The Boneyard.ogg"
+}
+music={
+    name = "Deserts of Kharak - 008 - Escape Into the Storm"
+    volume = 0.50
+    file = "08 Escape Into the Storm.ogg"
+}
+music={
+    name = "Deserts of Kharak - 009 - Mission 2 Personal Log"
+    volume = 0.50
+    file = "09 Mission 2 Personal Log.ogg"
+}
+music={
+    name = "Deserts of Kharak - 010 - Cutoff In the Storm"
+    volume = 0.50
+    file = "10 Cutoff In the Storm.ogg"
+}
+music={
+    name = "Deserts of Kharak - 011 - Entering Cape Wrath"
+    volume = 0.50
+    file = "11 Entering Cape Wrath.ogg"
+}
+music={
+    name = "Deserts of Kharak - 012 - Cape Wrath"
+    volume = 0.50
+    file = "12 Cape Wrath.ogg"
+}
+music={
+    name = "Deserts of Kharak - 013 - Lost Expedition Found"
+    volume = 0.50
+    file = "13 Lost Expedition Found.ogg"
+}
+music={
+    name = "Deserts of Kharak - 014 - Tomb of Sand"
+    volume = 0.50
+    file = "14 Tomb of Sand.ogg"
+}
+music={
+    name = "Deserts of Kharak - 015 - Escape from the Wreck"
+    volume = 0.50
+    file = "15 Escape from the Wreck.ogg"
+}
+music={
+    name = "Deserts of Kharak - 016 - Hunted"
+    volume = 0.50
+    file = "16 Hunted.ogg"
+}
+music={
+    name = "Deserts of Kharak - 017 - Victory - Gaalsi Cruiser Destroyed"
+    volume = 0.50
+    file = "17 Victory- Gaalsi Cruiser Destroyed.ogg"
+}
+music={
+    name = "Deserts of Kharak - 018 - Mission 3 Personal Log"
+    volume = 0.50
+    file = "18 Mission 3 Personal Log.ogg"
+}
+music={
+    name = "Deserts of Kharak - 019 - The Fate of Carrier Nabal"
+    volume = 0.50
+    file = "19 The Fate of Carrier Nabal.ogg"
+}
+music={
+    name = "Deserts of Kharak - 020 - Entering The Sarathi Basin"
+    volume = 0.50
+    file = "20 Entering The Sarathi Basin.ogg"
+}
+music={
+    name = "Deserts of Kharak - 021 - Rachel, Scout up Ahead"
+    volume = 0.50
+    file = "21 Rachel, Scout up Ahead.ogg"
+}
+music={
+    name = "Deserts of Kharak - 022 - Discovery at the Kalash Site"
+    volume = 0.50
+    file = "22 Discovery at the Kalash Site.ogg"
+}
+music={
+    name = "Deserts of Kharak - 023 - Expand the Search to the Valley Below"
+    volume = 0.50
+    file = "23 Expand the Search to the Valley Below.ogg"
+}
+music={
+    name = "Deserts of Kharak - 024 - The Gaalsi Arrive"
+    volume = 0.50
+    file = "24 The Gaalsi Arrive.ogg"
+}
+music={
+    name = "Deserts of Kharak - 025 - Gaalsi on Advance"
+    volume = 0.50
+    file = "25 Gaalsi on Advance.ogg"
+}
+music={
+    name = "Deserts of Kharak - 026 - Wrecks in the Field"
+    volume = 0.50
+    file = "26 Wrecks in the Field.ogg"
+}
+music={
+    name = "Deserts of Kharak - 027 - Sarathi Basin"
+    volume = 0.50
+    file = "27 Sarathi Basin.ogg"
+}
+music={
+    name = "Deserts of Kharak - 028 - Data From the Wreck Suggests"
+    volume = 0.50
+    file = "28 Data From the Wreck Suggests.ogg"
+}
+music={
+    name = "Deserts of Kharak - 029 - Mission 4 Personal Log"
+    volume = 0.50
+    file = "29 Mission 4 Personal Log.ogg"
+}
+music={
+    name = "Deserts of Kharak - 030 - Atmospheric Penetration followed by Ground Impact"
+    volume = 0.50
+    file = "30 Atmospheric Penetration followed by Ground Impact.ogg"
+}
+music={
+    name = "Deserts of Kharak - 031 - Prelude to Shipbreaking"
+    volume = 0.50
+    file = "31 Prelude to Shipbreaking.ogg"
+}
+music={
+    name = "Deserts of Kharak - 032 - The Kalash Wrecksite"
+    volume = 0.50
+    file = "32 The Kalash Wrecksite.ogg"
+}
+music={
+    name = "Deserts of Kharak - 033 - I Will Pray for your Souls"
+    volume = 0.50
+    file = "33 I Will Pray for your Souls.ogg"
+}
+music={
+    name = "Deserts of Kharak - 034 - Engage The Ashoka's Fleet"
+    volume = 0.50
+    file = "34 Engage The Ashoka's Fleet.ogg"
+}
+music={
+    name = "Deserts of Kharak - 035 - Captain Mashad to the Rescue"
+    volume = 0.50
+    file = "35 Captain Mashad to the Rescue.ogg"
+}
+music={
+    name = "Deserts of Kharak - 036 - The Coalition Join with the Sidiim"
+    volume = 0.50
+    file = "36 The Coalition Join with the Sidiim.ogg"
+}
+music={
+    name = "Deserts of Kharak - 037 - The Ashoka Escapes - Full Original Version"
+    volume = 0.50
+    file = "37 The Ashoka Escapes - Full Original Version.ogg"
+}
+music={
+    name = "Deserts of Kharak - 038 - Mission 5 Personal Log"
+    volume = 0.50
+    file = "38 Mission 5 Personal Log.ogg"
+}
+music={
+    name = "Deserts of Kharak - 039 - The Ashoka is Damaged and on the Run"
+    volume = 0.50
+    file = "39 The Ashoka is Damaged and on the Run.ogg"
+}
+music={
+    name = "Deserts of Kharak - 040 - The Military Strike Begins"
+    volume = 0.50
+    file = "40 The Military Strike Begins.ogg"
+}
+music={
+    name = "Deserts of Kharak - 041 - Gaalsi Resource Operation"
+    volume = 0.50
+    file = "41 Gaalsi Resource Operation.ogg"
+}
+music={
+    name = "Deserts of Kharak - 042 - The Ashoka Arrives"
+    volume = 0.50
+    file = "42 The Ashoka Arrives.ogg"
+}
+music={
+    name = "Deserts of Kharak - 043 - The Ashoka Attacks"
+    volume = 0.50
+    file = "43 The Ashoka Attacks.ogg"
+}
+music={
+    name = "Deserts of Kharak - 044 - EMP Burst"
+    volume = 0.50
+    file = "44 EMP Burst.ogg"
+}
+music={
+    name = "Deserts of Kharak - 045 - Khagaan's Final Address"
+    volume = 0.50
+    file = "45 Khagaan's Final Address.ogg"
+}
+music={
+    name = "Deserts of Kharak - 046 - Mission 6 Personal Log"
+    volume = 0.50
+    file = "46 Mission 6 Personal Log.ogg"
+}
+music={
+    name = "Deserts of Kharak - 047 - Discovery of a Gaalsi Base"
+    volume = 0.50
+    file = "47 Discovery of a Gaalsi Base.ogg"
+}
+music={
+    name = "Deserts of Kharak - 048 - The Gaalsi Shipbreaking Operation"
+    volume = 0.50
+    file = "48 The Gaalsi Shipbreaking Operation.ogg"
+}
+music={
+    name = "Deserts of Kharak - 049 - Assault on the Gaalsi Base"
+    volume = 0.50
+    file = "49 Assault on the Gaalsi Base.ogg"
+}
+music={
+    name = "Deserts of Kharak - 050 - Rachel Enters the Outpost"
+    volume = 0.50
+    file = "50 Rachel Enters the Outpost.ogg"
+}
+music={
+    name = "Deserts of Kharak - 051 - Gaalsi Fleet Returns"
+    volume = 0.50
+    file = "51 Gaalsi Fleet Returns.ogg"
+}
+music={
+    name = "Deserts of Kharak - 052 - The Gaalsi Fleet Engaged"
+    volume = 0.50
+    file = "52 The Gaalsi Fleet Engaged.ogg"
+}
+music={
+    name = "Deserts of Kharak - 053 - Let There Be Peace on Kharak Once Again"
+    volume = 0.50
+    file = "53 Let There Be Peace on Kharak Once Again.ogg"
+}
+music={
+    name = "Deserts of Kharak - 053 - Mission 7 Personal Log"
+    volume = 0.50
+    file = "53 Mission 7 Personal Log.ogg"
+}
+music={
+    name = "Deserts of Kharak - 054 - Let There Be Peace on Kharak Once Again"
+    volume = 0.50
+    file = "54 Let There Be Peace on Kharak Once Again.ogg"
+}
+music={
+    name = "Deserts of Kharak - 054 - Mission 7 Personal Log"
+    volume = 0.50
+    file = "54 Mission 7 Personal Log.ogg"
+}
+music={
+    name = "Deserts of Kharak - 055 - Rachel, Do You Copy"
+    volume = 0.50
+    file = "55 Rachel, Do You Copy.ogg"
+}
+music={
+    name = "Deserts of Kharak - 056 - Tombs of the Ancients"
+    volume = 0.50
+    file = "56 Tombs of the Ancients.ogg"
+}
+music={
+    name = "Deserts of Kharak - 057 - Tomb of the Ancients - Beautiful Night"
+    volume = 0.50
+    file = "57 Tomb of the Ancients - Beautiful Night.ogg"
+}
+music={
+    name = "Deserts of Kharak - 058 - Tombs of the Ancients Alt Mix"
+    volume = 0.50
+    file = "58 Tombs of the Ancients Alt Mix.ogg"
+}
+music={
+    name = "Deserts of Kharak - 059 - How Did They Get Here"
+    volume = 0.50
+    file = "59 How Did They Get Here.ogg"
+}
+music={
+    name = "Deserts of Kharak - 060 - Gaalsi Carrier Attacks"
+    volume = 0.50
+    file = "60 Gaalsi Carrier Attacks.ogg"
+}
+music={
+    name = "Deserts of Kharak - 061 - Gaalsi Missile Launch"
+    volume = 0.50
+    file = "61 Gaalsi Missile Launch.ogg"
+}
+music={
+    name = "Deserts of Kharak - 062 - Mission 8 Personal Log"
+    volume = 0.50
+    file = "62 Mission 8 Personal Log.ogg"
+}
+music={
+    name = "Deserts of Kharak - 063 - The Quantum Waveform"
+    volume = 0.50
+    file = "63 The Quantum Waveform.ogg"
+}
+music={
+    name = "Deserts of Kharak - 064 - The Quantum Waveform Electronic Full"
+    volume = 0.50
+    file = "64 The Quantum Waveform Electronic Full.ogg"
+}
+music={
+    name = "Deserts of Kharak - 065 - The Quantum Waveform Acoustic Full"
+    volume = 0.50
+    file = "65 The Quantum Waveform Acoustic Full.ogg"
+}
+music={
+    name = "Deserts of Kharak - 066 - The Siidim are in Trouble"
+    volume = 0.50
+    file = "66 The Siidim are in Trouble.ogg"
+}
+music={
+    name = "Deserts of Kharak - 067 - We Must Help the Siidim"
+    volume = 0.50
+    file = "67 We Must Help the Siidim.ogg"
+}
+music={
+    name = "Deserts of Kharak - 068 - Siidim Under Attack"
+    volume = 0.50
+    file = "68 Siidim Under Attack.ogg"
+}
+music={
+    name = "Deserts of Kharak - 069 - Leaving the Canyon"
+    volume = 0.50
+    file = "69 Leaving the Canyon.ogg"
+}
+music={
+    name = "Deserts of Kharak - 070 - Mission 9 Personal Log"
+    volume = 0.50
+    file = "70 Mission 9 Personal Log.ogg"
+}
+music={
+    name = "Deserts of Kharak - 071 - A Weapon of Vast Destructive Power"
+    volume = 0.50
+    file = "71 A Weapon of Vast Destructive Power.ogg"
+}
+music={
+    name = "Deserts of Kharak - 072 - We Must Secure the Plateau"
+    volume = 0.50
+    file = "72 We Must Secure the Plateau.ogg"
+}
+music={
+    name = "Deserts of Kharak - 073 - The Plateau"
+    volume = 0.50
+    file = "73 The Plateau.ogg"
+}
+music={
+    name = "Deserts of Kharak - 074 - Plateau Secured"
+    volume = 0.50
+    file = "74 Plateau Secured.ogg"
+}
+music={
+    name = "Deserts of Kharak - 075 - Mission 10 Personal Log"
+    volume = 0.50
+    file = "75 Mission 10 Personal Log.ogg"
+}
+music={
+    name = "Deserts of Kharak - 076 - It's an Orbital Weapon"
+    volume = 0.50
+    file = "76 It's an Orbital Weapon.ogg"
+}
+music={
+    name = "Deserts of Kharak - 077 - Racing the Gauge"
+    volume = 0.50
+    file = "77 Racing the Gauge.ogg"
+}
+music={
+    name = "Deserts of Kharak - 078 - Dusk at The Kashar Plateau"
+    volume = 0.50
+    file = "78 Dusk at The Kashar Plateau.ogg"
+}
+music={
+    name = "Deserts of Kharak - 079 - The Sakala Has Arrived"
+    volume = 0.50
+    file = "79 The Sakala Has Arrived.ogg"
+}
+music={
+    name = "Deserts of Kharak - 080 - The Kashar Plateau Ambient 1"
+    volume = 0.50
+    file = "80 The Kashar Plateau Ambient 1.ogg"
+}
+music={
+    name = "Deserts of Kharak - 081 - The Kashar Plateau Ambient 2"
+    volume = 0.50
+    file = "81 The Kashar Plateau Ambient 2.ogg"
+}
+music={
+    name = "Deserts of Kharak - 082 - Fire in the Sky"
+    volume = 0.50
+    file = "82 Fire in the Sky.ogg"
+}
+music={
+    name = "Deserts of Kharak - 083 - Mission 11 Personal Log"
+    volume = 0.50
+    file = "83 Mission 11 Personal Log.ogg"
+}
+music={
+    name = "Deserts of Kharak - 084 - The Key to Our Past"
+    volume = 0.50
+    file = "84 The Key to Our Past.ogg"
+}
+music={
+    name = "Deserts of Kharak - 085 - Alone at Torin Crater"
+    volume = 0.50
+    file = "85 Alone at Torin Crater.ogg"
+}
+music={
+    name = "Deserts of Kharak - 086 - Torin Crater Ambient"
+    volume = 0.50
+    file = "86 Torin Crater Ambient.ogg"
+}
+music={
+    name = "Deserts of Kharak - 087 - Defend Rachel"
+    volume = 0.50
+    file = "87 Defend Rachel.ogg"
+}
+music={
+    name = "Deserts of Kharak - 088 - The Sakala has Arrived"
+    volume = 0.50
+    file = "88 The Sakala has Arrived.ogg"
+}
+music={
+    name = "Deserts of Kharak - 089 - Jacobs Hidden Message"
+    volume = 0.50
+    file = "89 Jacobs Hidden Message.ogg"
+}
+music={
+    name = "Deserts of Kharak - 090 - Mission 12 Personal Log"
+    volume = 0.50
+    file = "90 Mission 12 Personal Log.ogg"
+}
+music={
+    name = "Deserts of Kharak - 091 - Sacrifice"
+    volume = 0.50
+    file = "91 Sacrifice.ogg"
+}
+music={
+    name = "Deserts of Kharak - 092 - Arrival at the Khar Toba Site"
+    volume = 0.50
+    file = "92 Arrival at the Khar Toba Site.ogg"
+}
+music={
+    name = "Deserts of Kharak - 093 - Khar Toba Site Ambient"
+    volume = 0.50
+    file = "93 Khar Toba Site Ambient.ogg"
+}
+music={
+    name = "Deserts of Kharak - 094 - Rachel Enters the Khar Toba"
+    volume = 0.50
+    file = "94 Rachel Enters the Khar Toba.ogg"
+}
+music={
+    name = "Deserts of Kharak - 095 - The First City of Kharak"
+    volume = 0.50
+    file = "95 The First City of Kharak.ogg"
+}
+music={
+    name = "Deserts of Kharak - 096 - Defend the Khar Toba"
+    volume = 0.50
+    file = "96 Defend the Khar Toba.ogg"
+}
+music={
+    name = "Deserts of Kharak - 097 - The K'Had Sajuuk Arrives"
+    volume = 0.50
+    file = "97 The K'Had Sajuuk Arrives.ogg"
+}
+music={
+    name = "Deserts of Kharak - 098 - The K'Had Sajuuk has been Defeated"
+    volume = 0.50
+    file = "98 The K'Had Sajuuk has been Defeated.ogg"
+}
+music={
+    name = "Deserts of Kharak - 099 - A New Beginning"
+    volume = 0.50
+    file = "99 A New Beginning.ogg"
+}
+music={
+    name = "Deserts of Kharak - 100 - Credits"
+    volume = 0.50
+    file = "100 Credits.ogg"
+}
+music={
+    name = "Deserts of Kharak - 101 - Front End Menu"
+    volume = 0.50
+    file = "101 Front End Menu.ogg"
+}
+music={
+    name = "Deserts of Kharak - 102 - Tutorial"
+    volume = 0.50
+    file = "102 Tutorial.ogg"
+}
+music={
+    name = "Deserts of Kharak - 103 - Bonus Track - Shipbreakers"
+    volume = 0.50
+    file = "103 Bonus Track - Shipbreakers.ogg"
+}
+music={
+    name = "Deserts of Kharak - 104 - Bonus Track - The Desert"
+    volume = 0.50
+    file = "104 Bonus Track - The Desert.ogg"
+}
+music={
+    name = "Deserts of Kharak - 105 - Bonus Track - History of the Kalash"
+    volume = 0.50
+    file = "105 Bonus Track - History of the Kalash.ogg"
+}
+music={
+    name = "Deserts of Kharak - 106 - Bonus Track - Kharak Ambient"
+    volume = 0.50
+    file = "106 Bonus Track - Kharak Ambient.ogg"
+}
+music={
+    name = "Deserts of Kharak - 107 - Bonus Track - Buried in the Sand"
+    volume = 0.50
+    file = "107 Bonus Track - Buried in the Sand.ogg"
+}
+music={
+    name = "Deserts of Kharak - 108 - Bonus Track - Gaalsi Base Alt"
+    volume = 0.50
+    file = "108 Bonus Track - Gaalsi Base Alt.ogg"
+}
+music={
+    name = "Deserts of Kharak - 109 - Bonus Track - The Dune Sea"
+    volume = 0.50
+    file = "109 Bonus Track - The Dune Sea.ogg"
+}
+music={
+    name = "Deserts of Kharak - 110 - Bonus Track - The Boneyard Alt"
+    volume = 0.50
+    file = "110 Bonus Track - The Boneyard Alt.ogg"
+}
+music={
+    name = "Deserts of Kharak - 111 - Bonus Track - The Gaalsi Remain a Threat"
+    volume = 0.50
+    file = "111 Bonus Track - The Gaalsi Remain a Threat.ogg"
+}
+music={
+    name = "Deserts of Kharak - 112 - Bonus Track - Shadows in the Sand"
+    volume = 0.50
+    file = "112 Bonus Track - Shadows in the Sand.ogg"
+}
+music={
+    name = "Deserts of Kharak - 113 - Bonus Track - Racing the Gauge Full"
+    volume = 0.50
+    file = "113 Bonus Track - Racing the Gauge Full.ogg"
+}
+music={
+    name = "Deserts of Kharak - 114 - Bonus Track - Rachel, Scout up Ahead"
+    volume = 0.50
+    file = "114 Bonus Track - Rachel, Scout up Ahead.ogg"
+}
+music={
+    name = "Deserts of Kharak - 115 - Bonus Track - Whispering Gallery Ambient"
+    volume = 0.50
+    file = "115 Bonus Track - Whispering Gallery Ambient.ogg"
+}
+music={
+    name = "Deserts of Kharak - 116 - Bonus Track - Enter the Desert Ambient"
+    volume = 0.50
+    file = "116 Bonus Track - Enter the Desert Ambient.ogg"
+}
+music={
+    name = "Deserts of Kharak - 117 - Bonus Track - The Canyon Ambient"
+    volume = 0.50
+    file = "117 Bonus Track - The Canyon Ambient.ogg"
+}

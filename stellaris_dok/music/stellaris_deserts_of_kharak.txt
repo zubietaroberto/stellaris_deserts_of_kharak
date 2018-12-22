@@ -1,0 +1,119 @@
+song = { name = "Deserts of Kharak - 001 - Our Planet is Dying" }
+song = { name = "Deserts of Kharak - 002 - Epsilon Base" }
+song = { name = "Deserts of Kharak - 003 - Launch of The Kapisi" }
+song = { name = "Deserts of Kharak - 004 - Mission 1 Personal Log" }
+song = { name = "Deserts of Kharak - 005 - Message from Khagaan" }
+song = { name = "Deserts of Kharak - 006 - Lander Arrives" }
+song = { name = "Deserts of Kharak - 007 - Battle at The Boneyard" }
+song = { name = "Deserts of Kharak - 008 - Escape Into the Storm" }
+song = { name = "Deserts of Kharak - 009 - Mission 2 Personal Log" }
+song = { name = "Deserts of Kharak - 010 - Cutoff In the Storm" }
+song = { name = "Deserts of Kharak - 011 - Entering Cape Wrath" }
+song = { name = "Deserts of Kharak - 012 - Cape Wrath" }
+song = { name = "Deserts of Kharak - 013 - Lost Expedition Found" }
+song = { name = "Deserts of Kharak - 014 - Tomb of Sand" }
+song = { name = "Deserts of Kharak - 015 - Escape from the Wreck" }
+song = { name = "Deserts of Kharak - 016 - Hunted" }
+song = { name = "Deserts of Kharak - 017 - Victory - Gaalsi Cruiser Destroyed" }
+song = { name = "Deserts of Kharak - 018 - Mission 3 Personal Log" }
+song = { name = "Deserts of Kharak - 019 - The Fate of Carrier Nabal" }
+song = { name = "Deserts of Kharak - 020 - Entering The Sarathi Basin" }
+song = { name = "Deserts of Kharak - 021 - Rachel, Scout up Ahead" }
+song = { name = "Deserts of Kharak - 022 - Discovery at the Kalash Site" }
+song = { name = "Deserts of Kharak - 023 - Expand the Search to the Valley Below" }
+song = { name = "Deserts of Kharak - 024 - The Gaalsi Arrive" }
+song = { name = "Deserts of Kharak - 025 - Gaalsi on Advance" }
+song = { name = "Deserts of Kharak - 026 - Wrecks in the Field" }
+song = { name = "Deserts of Kharak - 027 - Sarathi Basin" }
+song = { name = "Deserts of Kharak - 028 - Data From the Wreck Suggests" }
+song = { name = "Deserts of Kharak - 029 - Mission 4 Personal Log" }
+song = { name = "Deserts of Kharak - 030 - Atmospheric Penetration followed by Ground Impact" }
+song = { name = "Deserts of Kharak - 031 - Prelude to Shipbreaking" }
+song = { name = "Deserts of Kharak - 032 - The Kalash Wrecksite" }
+song = { name = "Deserts of Kharak - 033 - I Will Pray for your Souls" }
+song = { name = "Deserts of Kharak - 034 - Engage The Ashoka's Fleet" }
+song = { name = "Deserts of Kharak - 035 - Captain Mashad to the Rescue" }
+song = { name = "Deserts of Kharak - 036 - The Coalition Join with the Sidiim" }
+song = { name = "Deserts of Kharak - 037 - The Ashoka Escapes - Full Original Version" }
+song = { name = "Deserts of Kharak - 038 - Mission 5 Personal Log" }
+song = { name = "Deserts of Kharak - 039 - The Ashoka is Damaged and on the Run" }
+song = { name = "Deserts of Kharak - 040 - The Military Strike Begins" }
+song = { name = "Deserts of Kharak - 041 - Gaalsi Resource Operation" }
+song = { name = "Deserts of Kharak - 042 - The Ashoka Arrives" }
+song = { name = "Deserts of Kharak - 043 - The Ashoka Attacks" }
+song = { name = "Deserts of Kharak - 044 - EMP Burst" }
+song = { name = "Deserts of Kharak - 045 - Khagaan's Final Address" }
+song = { name = "Deserts of Kharak - 046 - Mission 6 Personal Log" }
+song = { name = "Deserts of Kharak - 047 - Discovery of a Gaalsi Base" }
+song = { name = "Deserts of Kharak - 048 - The Gaalsi Shipbreaking Operation" }
+song = { name = "Deserts of Kharak - 049 - Assault on the Gaalsi Base" }
+song = { name = "Deserts of Kharak - 050 - Rachel Enters the Outpost" }
+song = { name = "Deserts of Kharak - 051 - Gaalsi Fleet Returns" }
+song = { name = "Deserts of Kharak - 052 - The Gaalsi Fleet Engaged" }
+song = { name = "Deserts of Kharak - 053 - Let There Be Peace on Kharak Once Again" }
+song = { name = "Deserts of Kharak - 053 - Mission 7 Personal Log" }
+song = { name = "Deserts of Kharak - 054 - Let There Be Peace on Kharak Once Again" }
+song = { name = "Deserts of Kharak - 054 - Mission 7 Personal Log" }
+song = { name = "Deserts of Kharak - 055 - Rachel, Do You Copy" }
+song = { name = "Deserts of Kharak - 056 - Tombs of the Ancients" }
+song = { name = "Deserts of Kharak - 057 - Tomb of the Ancients - Beautiful Night" }
+song = { name = "Deserts of Kharak - 058 - Tombs of the Ancients Alt Mix" }
+song = { name = "Deserts of Kharak - 059 - How Did They Get Here" }
+song = { name = "Deserts of Kharak - 060 - Gaalsi Carrier Attacks" }
+song = { name = "Deserts of Kharak - 061 - Gaalsi Missile Launch" }
+song = { name = "Deserts of Kharak - 062 - Mission 8 Personal Log" }
+song = { name = "Deserts of Kharak - 063 - The Quantum Waveform" }
+song = { name = "Deserts of Kharak - 064 - The Quantum Waveform Electronic Full" }
+song = { name = "Deserts of Kharak - 065 - The Quantum Waveform Acoustic Full" }
+song = { name = "Deserts of Kharak - 066 - The Siidim are in Trouble" }
+song = { name = "Deserts of Kharak - 067 - We Must Help the Siidim" }
+song = { name = "Deserts of Kharak - 068 - Siidim Under Attack" }
+song = { name = "Deserts of Kharak - 069 - Leaving the Canyon" }
+song = { name = "Deserts of Kharak - 070 - Mission 9 Personal Log" }
+song = { name = "Deserts of Kharak - 071 - A Weapon of Vast Destructive Power" }
+song = { name = "Deserts of Kharak - 072 - We Must Secure the Plateau" }
+song = { name = "Deserts of Kharak - 073 - The Plateau" }
+song = { name = "Deserts of Kharak - 074 - Plateau Secured" }
+song = { name = "Deserts of Kharak - 075 - Mission 10 Personal Log" }
+song = { name = "Deserts of Kharak - 076 - It's an Orbital Weapon" }
+song = { name = "Deserts of Kharak - 077 - Racing the Gauge" }
+song = { name = "Deserts of Kharak - 078 - Dusk at The Kashar Plateau" }
+song = { name = "Deserts of Kharak - 079 - The Sakala Has Arrived" }
+song = { name = "Deserts of Kharak - 080 - The Kashar Plateau Ambient 1" }
+song = { name = "Deserts of Kharak - 081 - The Kashar Plateau Ambient 2" }
+song = { name = "Deserts of Kharak - 082 - Fire in the Sky" }
+song = { name = "Deserts of Kharak - 083 - Mission 11 Personal Log" }
+song = { name = "Deserts of Kharak - 084 - The Key to Our Past" }
+song = { name = "Deserts of Kharak - 085 - Alone at Torin Crater" }
+song = { name = "Deserts of Kharak - 086 - Torin Crater Ambient" }
+song = { name = "Deserts of Kharak - 087 - Defend Rachel" }
+song = { name = "Deserts of Kharak - 088 - The Sakala has Arrived" }
+song = { name = "Deserts of Kharak - 089 - Jacobs Hidden Message" }
+song = { name = "Deserts of Kharak - 090 - Mission 12 Personal Log" }
+song = { name = "Deserts of Kharak - 091 - Sacrifice" }
+song = { name = "Deserts of Kharak - 092 - Arrival at the Khar Toba Site" }
+song = { name = "Deserts of Kharak - 093 - Khar Toba Site Ambient" }
+song = { name = "Deserts of Kharak - 094 - Rachel Enters the Khar Toba" }
+song = { name = "Deserts of Kharak - 095 - The First City of Kharak" }
+song = { name = "Deserts of Kharak - 096 - Defend the Khar Toba" }
+song = { name = "Deserts of Kharak - 097 - The K'Had Sajuuk Arrives" }
+song = { name = "Deserts of Kharak - 098 - The K'Had Sajuuk has been Defeated" }
+song = { name = "Deserts of Kharak - 099 - A New Beginning" }
+song = { name = "Deserts of Kharak - 100 - Credits" }
+song = { name = "Deserts of Kharak - 101 - Front End Menu" }
+song = { name = "Deserts of Kharak - 102 - Tutorial" }
+song = { name = "Deserts of Kharak - 103 - Bonus Track - Shipbreakers" }
+song = { name = "Deserts of Kharak - 104 - Bonus Track - The Desert" }
+song = { name = "Deserts of Kharak - 105 - Bonus Track - History of the Kalash" }
+song = { name = "Deserts of Kharak - 106 - Bonus Track - Kharak Ambient" }
+song = { name = "Deserts of Kharak - 107 - Bonus Track - Buried in the Sand" }
+song = { name = "Deserts of Kharak - 108 - Bonus Track - Gaalsi Base Alt" }
+song = { name = "Deserts of Kharak - 109 - Bonus Track - The Dune Sea" }
+song = { name = "Deserts of Kharak - 110 - Bonus Track - The Boneyard Alt" }
+song = { name = "Deserts of Kharak - 111 - Bonus Track - The Gaalsi Remain a Threat" }
+song = { name = "Deserts of Kharak - 112 - Bonus Track - Shadows in the Sand" }
+song = { name = "Deserts of Kharak - 113 - Bonus Track - Racing the Gauge Full" }
+song = { name = "Deserts of Kharak - 114 - Bonus Track - Rachel, Scout up Ahead" }
+song = { name = "Deserts of Kharak - 115 - Bonus Track - Whispering Gallery Ambient" }
+song = { name = "Deserts of Kharak - 116 - Bonus Track - Enter the Desert Ambient" }
+song = { name = "Deserts of Kharak - 117 - Bonus Track - The Canyon Ambient" }
